@@ -1,8 +1,10 @@
-<h1 align="center">Hi there, I'm MhdxMx 👋</h1>
-<h3 align="center">Computer Engineering Student & Self-Taught Developer</h3>
+<h1 align="center">
+  Hi, I'm <a href="https://github.com/MhdxMx">MhdxMx</a>
+  <img align="center" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/wave.gif" width="30px">
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=520&lines=Building+practical+tools+from+idea+to+product;Web+%7C+Mobile+%7C+Desktop+development;Exploring+local+AI+%26+agentic+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=true&lines=Computer+Science+Student;Web+Developer;Python+Enthusiast;Linux+Lover;English+%7C+French+%7C+Turkish" width="500" alt="Typing SVG" />
 </p>
 
 ---
@@ -22,10 +24,16 @@
 ### Tech Stack
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Shell%20Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <br/>
   <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
 ---
