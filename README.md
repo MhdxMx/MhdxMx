@@ -4,7 +4,7 @@
 <h3 align="center">Computer Engineering Student & Self-Taught Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=520&lines=Building+practical+tools+from+idea+to+product;Web+%7C+Mobile+%7C+Desktop+development;Exploring+local+AI+%26+agentic+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=520&lines= Building+practical+tools+from+idea+to+product;Web+%7C+development;Exploring+local+AI+%26+agentic+systems" alt="Typing SVG" />
 </p>
 
 ---
