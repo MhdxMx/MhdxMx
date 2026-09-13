@@ -11,13 +11,17 @@
 
 ### About me
 
-- Computer engineering student
-- Self-taught (autodidact) developer across **web, mobile, and desktop**
-- I like turning small ideas into real, working tools — fast iteration, visual feedback
-- Currently exploring **local AI inference** (Ollama) and **agentic architectures**
-- Building Android apps with **Kotlin / Jetpack Compose**
-- Interested in **cybersecurity**
-- Daily driver: dual-boot **Linux / Windows**
+```css
+> root :~ whoami
+```
+```python
+> I am a Computer Engineering student and self-taught developer
+> I have a strong interest in web development and Python
+> I daily-drive Linux — dual-boot Linux / Windows
+> I speak English, French, and Turkish
+
+> Committed to building practical, working tools from idea to product
+```
 
 ---
 
